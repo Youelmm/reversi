@@ -1,0 +1,7 @@
+all:        run the whole build of the 'reversi'
+
+reversi:    build the executable file 'reversi'
+
+clean:      remove all files produced by the compilation
+
+help:       display the main targets of the Makefile with a short description

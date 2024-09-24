@@ -1,0 +1,7 @@
+all:        run the target 'build'
+
+reversi:    build the executable recursively in the directory 'src/'
+
+clean:      remove all files produced by the compilation
+
+help:       display the main targets of the Makefile with a short description
